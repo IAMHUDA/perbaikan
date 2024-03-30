@@ -27,7 +27,7 @@ function sweetAlert() {
             timer: 1500
         }).then((result) => {
             // Redirect to the next page after the alert
-            window.location.href = "index.html";
+            window.location.href = "halaman.html";
         });
     } else {
         Swal.fire({
